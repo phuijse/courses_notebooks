@@ -1,9 +1,13 @@
 # AS4501 jupyter notebooks
 
-jupyter notebooks for the AS4501 "Astroinformatics" course at UChile
+Jupyter notebooks for the AS4501 "Astroinformatics" course at UChile
 
-## Requirements
+Requirements will vary between notebooks. Incomplete list of dependecies:
 
+* Python
 * Numpy
+* Tensorflow
 * PyMC3
+* Theano
+* Scikit-learn
 
